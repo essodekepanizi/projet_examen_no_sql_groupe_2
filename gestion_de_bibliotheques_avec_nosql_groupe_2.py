@@ -1,12 +1,20 @@
 
 """# Importation des bibliothèques nécessaires"""
-
+import os
+from pathlib import Path
 from pymongo import MongoClient
+from dotenv import load_dotenv
 from scripts_nosql import insertions_initiales, aggregations_de_donnees, creation_index
+
+dotenv_path = Path(__file__).resolve().parent / ".env"
+
+load_dotenv(dotenv_path=dotenv_path)
 
 """# Creation et accès à la base de données MongoDB"""
 
-client = MongoClient("mongodb://localhost:27017/")
+MONGO_URI = os.getenv("MONGODB_URI")
+
+client = MongoClient(MONGO_URI)
 db = client["bibliotheque_numerique"]
 
 """# Creation des collections"""
