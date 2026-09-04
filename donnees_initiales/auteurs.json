@@ -1,0 +1,38 @@
+[
+  {
+    "id_auteur": "AUT-0001",
+    "nom": "Jean-Jacques ROUSSEAU",
+    "bio": "Philosophe et écrivain genevois des Lumières, auteur du Contrat social et des Confessions, figure majeure de la pensée politique et de l'autobiographie moderne.",
+    "nationalite": "Genevoise"
+  },
+  {
+    "id_auteur": "AUT-0002",
+    "nom": "Gilbert SAPORTA",
+    "bio": "Statisticien français, professeur émérite au CNAM, spécialiste reconnu de l'analyse de données et de la statistique appliquée.",
+    "nationalite": "Française"
+  },
+  {
+    "id_auteur": "AUT-0003",
+    "nom": "Jean-Paul SARTRE",
+    "bio": "Philosophe, romancier et dramaturge français, figure centrale de l'existentialisme, lauréat du prix Nobel de littérature en 1964 (qu'il refusa).",
+    "nationalite": "Française"
+  },
+  {
+    "id_auteur": "AUT-0004",
+    "nom": "David DIOP",
+    "bio": "Poète franco-sénégalais associé au mouvement de la négritude, connu pour son recueil Coups de pilon, mort prématurément en 1960.",
+    "nationalite": "Franco-sénégalaise"
+  },
+  {
+    "id_auteur": "AUT-0005",
+    "nom": "Jean PLIAT",
+    "bio": null,
+    "nationalite": null
+  },
+  {
+    "id_auteur": "AUT-0006",
+    "nom": "Leopold Sedar SENGHOR",
+    "bio": "Poète, homme d'État et théoricien de la négritude, premier président du Sénégal (1960-1980) et premier Africain élu à l'Académie française.",
+    "nationalite": "Sénégalaise"
+  }
+]

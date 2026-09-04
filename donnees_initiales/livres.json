@@ -1,0 +1,43 @@
+[
+  {
+    "isbn": "978-2-266-11562-1",
+    "titre": "Du contrat social",
+    "ids_auteurs": ["AUT-0001"],
+    "date": "1762-01-01",
+    "tags": ["philosophie", "politique"],
+    "resume": "Essai fondateur sur la légitimité du pouvoir politique et la souveraineté populaire."
+  },
+  {
+    "isbn": "978-2-10-081760-8",
+    "titre": "Probabilités, analyse des données et statistique",
+    "ids_auteurs": ["AUT-0002"],
+    "date": "2006-01-01",
+    "tags": ["statistique", "manuel"],
+    "resume": "Ouvrage de référence en statistique appliquée et analyse de données."
+  },
+  {
+    "isbn": "978-2-07-036002-4",
+    "titre": "La Nausée",
+    "ids_auteurs": ["AUT-0003"],
+    "date": "1938-01-01",
+    "tags": ["roman", "existentialisme"],
+    "resume": "Roman fondateur de l'existentialisme sartrien, sous forme de journal intime."
+  },
+
+  {
+    "isbn": "978-2-7087-0821-4",
+    "titre": "Coups de pilon",
+    "ids_auteurs": ["AUT-0004"],
+    "date": "1956-01-01",
+    "tags": ["poésie", "négritude"],
+    "resume": "Unique recueil de poèmes de David Diop, dénonçant le colonialisme."
+  },
+  {
+    "isbn": "978-2-13-039963-4",
+    "titre": "Anthologie de la nouvelle poésie nègre et malgache de langue française",
+    "ids_auteurs": ["AUT-0006","AUT-0003","AUT-0004"],
+    "date": "1948-01-01",
+    "tags": ["poésie", "négritude", "anthologie"],
+    "resume": "Anthologie dirigée par Senghor, préfacée par Sartre (Orphée noir), incluant des poèmes de David Diop et d'autres poètes francophones."
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id_utilisateur": "USR-0001",
+    "nom_utilisateur": "Fatou Diop",
+    "numero": "+221771234567",
+    "cni": "1234567890123",
+    "adresse": "Sacré-Cœur 3, Dakar"
+  },
+  {
+    "id_utilisateur": "USR-0002",
+    "nom_utilisateur": "Moussa Ndiaye",
+    "numero": "+221781234568",
+    "cni": "1234567890124",
+    "adresse": "Parcelles Assainies Unité 15, Dakar"
+  },
+  {
+    "id_utilisateur": "USR-0003",
+    "nom_utilisateur": "Aissatou Sow",
+    "numero": "+221761234569",
+    "cni": "1234567890125",
+    "adresse": "Mermoz, Dakar"
+  },
+  {
+    "id_utilisateur": "USR-0004",
+    "nom_utilisateur": "Ibrahima Fall",
+    "numero": "+221701234570",
+    "cni": "1234567890126",
+    "adresse": "Grand Yoff, Dakar"
+  },
+  {
+    "id_utilisateur": "USR-0005",
+    "nom_utilisateur": "Mariama Ba",
+    "numero": "+221771234571",
+    "cni": "1234567890127",
+    "adresse": "Pikine Nord, Pikine"
+  },
+  {
+    "id_utilisateur": "USR-0006",
+    "nom_utilisateur": "Cheikh Gueye",
+    "numero": "+221781234572",
+    "cni": "1234567890128",
+    "adresse": "Rufisque Est, Rufisque"
+  },
+  {
+    "id_utilisateur": "USR-0007",
+    "nom_utilisateur": "Awa Sarr",
+    "numero": "+221761234573",
+    "cni": "1234567890129",
+    "adresse": "Yoff, Dakar"
+  },
+  {
+    "id_utilisateur": "USR-0008",
+    "nom_utilisateur": "Ousmane Diallo",
+    "numero": "+221701234574",
+    "cni": "1234567890130",
+    "adresse": "Guédiawaye, Guédiawaye"
+  },
+  {
+    "id_utilisateur": "USR-0009",
+    "nom_utilisateur": "Khady Mbaye",
+    "numero": "+221771234575",
+    "cni": "1234567890131",
+    "adresse": "Liberté 6, Dakar"
+  },
+  {
+    "id_utilisateur": "USR-0010",
+    "nom_utilisateur": "Abdoulaye Faye",
+    "numero": "+221781234576",
+    "cni": "1234567890132",
+    "adresse": "Thiaroye, Pikine"
+  },
+  {
+    "id_utilisateur": "USR-0011",
+    "nom_utilisateur": "Ndeye Coumba Thiam",
+    "numero": "+221761234577",
+    "cni": "1234567890133",
+    "adresse": "Ouakam, Dakar"
+  },
+  {
+    "id_utilisateur": "USR-0012",
+    "nom_utilisateur": "Mamadou Sy",
+    "numero": "+221701234578",
+    "cni": "1234567890134",
+    "adresse": "Médina, Dakar"
+  }
+]

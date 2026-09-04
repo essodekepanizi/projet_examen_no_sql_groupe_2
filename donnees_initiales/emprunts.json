@@ -1,0 +1,100 @@
+[
+  {
+    "id_utilisateur": "USR-0002",
+    "isbn": "978-2-07-036002-4",
+    "date_emprunt": "2026-08-05",
+    "date_retour_prevue": "2026-08-19",
+    "date_retour_effective": null
+  },
+  {
+    "id_utilisateur": "USR-0003",
+    "isbn": "978-2-7087-0821-4",
+    "date_emprunt": "2026-08-10",
+    "date_retour_prevue": "2026-08-24",
+    "date_retour_effective": "2026-08-22"
+  },
+  {
+    "id_utilisateur": "USR-0005",
+    "isbn": "978-2-10-081760-8",
+    "date_emprunt": "2026-08-14",
+    "date_retour_prevue": "2026-08-28",
+    "date_retour_effective": "2026-08-27"
+  },
+  {
+    "id_utilisateur": "USR-0006",
+    "isbn": "978-2-13-039963-4",
+    "date_emprunt": "2026-08-18",
+    "date_retour_prevue": "2026-09-01",
+    "date_retour_effective": null
+  },
+  {
+    "id_utilisateur": "USR-0007",
+    "isbn": "978-2-266-11562-1",
+    "date_emprunt": "2026-08-22",
+    "date_retour_prevue": "2026-09-05",
+    "date_retour_effective": "2026-08-30"
+  },
+  {
+    "id_utilisateur": "USR-0009",
+    "isbn": "978-2-7087-0821-4",
+    "date_emprunt": "2026-08-28",
+    "date_retour_prevue": "2026-09-11",
+    "date_retour_effective": null
+  },
+  {
+    "id_utilisateur": "USR-0001",
+    "isbn": "978-2-266-11562-1",
+    "date_emprunt": "2026-08-01",
+    "date_retour_prevue": "2026-08-15",
+    "date_retour_effective": "2026-08-13"
+  },
+  {
+    "id_utilisateur": "USR-0004",
+    "isbn": "978-2-10-081760-8",
+    "date_emprunt": "2026-08-03",
+    "date_retour_prevue": "2026-08-17",
+    "date_retour_effective": "2026-08-16"
+  },
+  {
+    "id_utilisateur": "USR-0008",
+    "isbn": "978-2-07-036002-4",
+    "date_emprunt": "2026-08-09",
+    "date_retour_prevue": "2026-08-23",
+    "date_retour_effective": null
+  },
+  {
+    "id_utilisateur": "USR-0010",
+    "isbn": "978-2-13-039963-4",
+    "date_emprunt": "2026-08-12",
+    "date_retour_prevue": "2026-08-26",
+    "date_retour_effective": "2026-08-25"
+  },
+  {
+    "id_utilisateur": "USR-0011",
+    "isbn": "978-2-7087-0821-4",
+    "date_emprunt": "2026-08-16",
+    "date_retour_prevue": "2026-08-30",
+    "date_retour_effective": null
+  },
+  {
+    "id_utilisateur": "USR-0012",
+    "isbn": "978-2-266-11562-1",
+    "date_emprunt": "2026-08-20",
+    "date_retour_prevue": "2026-09-03",
+    "date_retour_effective": null
+  },
+  {
+    "id_utilisateur": "USR-0002",
+    "isbn": "978-2-10-081760-8",
+    "date_emprunt": "2026-08-24",
+    "date_retour_prevue": "2026-09-07",
+    "date_retour_effective": null
+  },
+  {
+    "id_utilisateur": "USR-0006",
+    "isbn": "978-2-07-036002-4",
+    "date_emprunt": "2026-08-30",
+    "date_retour_prevue": "2026-09-13",
+    "date_retour_effective": null
+  }
+]
