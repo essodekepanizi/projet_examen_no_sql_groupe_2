@@ -15,7 +15,17 @@ load_dotenv(dotenv_path=dotenv_path)
 MONGO_URI = os.getenv("MONGODB_URI")
 
 client = MongoClient(MONGO_URI)
-db = client["bibliotheque_numerique"]
+
+nom_db = "bibliotheque_numerique"
+
+# Supprimer la base de données si elle existe déjà
+if nom_db in client.list_database_names():
+    client.drop_database(nom_db)
+    print(f"La base de données '{nom_db}' existait déjà et a été supprimée.")
+else:
+    print(f"La base de données '{nom_db}' n'existait pas encore.")
+
+db = client[nom_db]
 
 """# Creation des collections"""
 collections = ["Auteurs","Livres", "Utilisateurs","Emprunts"]
