@@ -10,7 +10,7 @@ Décompresser le fichier zip dans le dossier de votre choix.
 # Installation des packages et drivers nécessaires
 
 Ouvrir le terminal de votre ordinateur (Powershell sur Windows / Terminal sur Mac)
-Naviguer dans le dossier décompressé ou se trouve le code python principal 'gestion_de_bibliothèques_avec_nosql_groupe_2.py'
+Naviguer dans le dossier décompressé ou se trouve le code python principal `main.py`
 
 Lancer la commande bash d'installation des packages et drivers requis
 
